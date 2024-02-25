@@ -4,10 +4,9 @@ This is a weather forecast app developed for Android using Kotlin. It provides u
 
 ## Features
 
-- Display current weather conditions such as temperature, humidity, wind speed, etc.
-- Show a 5-day weather forecast including daily high and low temperatures.
-- Allow users to search for weather information by city name or ZIP code.
-- Provide weather data in various units (e.g., Celsius, Fahrenheit, meters per second, miles per hour).
+- Display current weather conditions such as temperature, humidity, wind speed, etc..
+- Allow users to search for weather information by city name.
+- 
 
 ## Screenshots
 _SplashScreen_
